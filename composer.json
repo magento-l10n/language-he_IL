@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-he_il",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "magento2-language",
     "description": "he_IL language package.",
     "license": [
